@@ -1,4 +1,4 @@
 CakeACL
 =======
 
-Updated version of CakePhp CL plugin
+Updated version of CakePhp ACL plugin
